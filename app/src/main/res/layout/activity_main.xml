@@ -15,11 +15,8 @@
         android:layout_height="match_parent">
 
         <include layout="@layout/content_main" />
-
         <include layout="@layout/app_bar_main" />
-
         <include layout="@layout/floating_button_mail" />
-
         <include layout="@layout/nav_bottom" />
 
     </android.support.design.widget.CoordinatorLayout>
